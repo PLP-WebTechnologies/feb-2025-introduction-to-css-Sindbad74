@@ -62,7 +62,7 @@ Margins, paddings, and borders.
                 other purposes. It is a major global industry that contributes significantly to economies <br>
                 worldwide.</p1>
         </div>
-        <img src="future.jpg" width="500px" height="500px">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxprZzMt6T_DBZd65Vq50lDKwwuGReF4HQQ&s" width="500px" height="500px">
         <div class="content">
             <h2>What is Tourism?</h2>
             <p1>Tourism is the activity of traveling to a place for pleasure. It is a popular activity for <br>
